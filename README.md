@@ -1,4 +1,4 @@
-# inventário BackEnd
+# Inventário BackEnd
 Aula de Backend MVC projeto de exemplo usando mockup bens.json
 
 ## Tecnologias
